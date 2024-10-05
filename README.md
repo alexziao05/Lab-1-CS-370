@@ -6,6 +6,7 @@ Mateen Rahbar
 David Soriano
 
 How to import .cct program to Whisky? 
+
 Note: On my computer this is the filepath of where I saved my .cct file. This will be different for your computer. 
 
 On Mac, CTRL + SHIFT + G, go to Users.  
