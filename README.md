@@ -4,12 +4,7 @@
 Alex Huang
 Mateen Rahbar
 David Soriano
+Bryce Rambach
 
-**How to import .cct program to Whisky?**
-
-Note: On my computer this is the filepath of where I saved my .cct file. This WILL be different for your computer. 
-
-On Mac, CTRL + SHIFT + G:  
-users/yourUserName/library/containers/whisky/bottles/yourBottleName/drive_c/users/crossover/desktop/lab1.cct
 
 
