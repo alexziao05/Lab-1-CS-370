@@ -4,6 +4,7 @@
 Alex Huang
 Mateen Rahbar
 David Soriano
+Bryce Rambach
 
 **How to import .cct program to Whisky?**
 
