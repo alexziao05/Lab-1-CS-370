@@ -1,4 +1,4 @@
-# Lab-1-CS-370-
+# Lab-1-CS-370
 
 **Group Members:**
 Alex Huang
